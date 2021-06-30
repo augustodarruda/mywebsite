@@ -1,0 +1,13 @@
+---
+title: "Projects"
+author: "Augusto D'Arruda"
+date: "6/29/2021"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is all of my projects!
+
